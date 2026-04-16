@@ -3,6 +3,8 @@
 ![](./promo-001.png)
 ![](./promo-002.png)
 
+Article: [Od design tokenów do zmiennych, czyli Style Dictionary w akcji](https://ryrych.pl/posts/od-design-tokenow-do-zmiennych/).
+
 The project uses [@wryrych/design-tokens-example](https://www.npmjs.com/package/@wryrych/design-tokens-example) *npm* *npm* package as a dependency. Each `scss` file has an access to design tokens.
 
 ```js
