@@ -21,7 +21,7 @@ module.exports = {
   …
 ```
 
-This repository is used as an example for the article [Od design tokenów do zmiennych, czyli Style Dictionary w akcji](https://www.pgs-soft.com/pl/blog/od-design-tokenow-do-zmiennych-czyli-style-dictionary-w-akcji/) (in *Polish*) published on the *PGS software blog*.
+This repository ~~is~~ was originally used as an example for the article [Od design tokenów do zmiennych, czyli Style Dictionary w akcji](https://www.pgs-soft.com/pl/blog/od-design-tokenow-do-zmiennych-czyli-style-dictionary-w-akcji/) (in *Polish*) published on the *PGS software blog*.
 
 ## How to run
 
